@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaramarques.github.io/Stage03-Desafio03-Space-Cream-Mobile/)
+- [Visite o projeto online](https://esioalmeida.github.io/Stage-03-Desafio-03-Space-Cream-Mobile/)
 
 <br/>
 
